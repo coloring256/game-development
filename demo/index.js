@@ -1,1 +1,1 @@
-/Users/ym/Projects/coloring256/dist/index.js
+/Users/ym/Projects/coloring256/game-development/dist/index.js
